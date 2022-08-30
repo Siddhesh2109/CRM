@@ -1,0 +1,4 @@
+System.setProperty("webdriver.chrome.driver","./drivers/chromedriver.exe");
+		WebDriver driver=new ChromeDriver();
+		driver.manage().window().maximize();
+        driver.get("http://demo.actiTIME.com/login.do");
