@@ -1,4 +1,4 @@
 System.setProperty("webdriver.chrome.driver","./drivers/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
-        driver.get("http://demo.actiTIME.com/login.do");
+        driver.get("https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGqQJlfpcjBhgRjhTlVpZTFsQzm");
